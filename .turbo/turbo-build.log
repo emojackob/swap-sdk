@@ -1,0 +1,20 @@
+$ tsdx build
+@rollup/plugin-replace: 'preventAssignment' currently defaults to false. It is recommended to set this option to `true`, as the next major version will default this option to `true`.
+@rollup/plugin-replace: 'preventAssignment' currently defaults to false. It is recommended to set this option to `true`, as the next major version will default this option to `true`.
+⠙ Creating entry file  99%                 2.2s, estimated 2.0s
+[2K[1A[2K[G✓ Creating entry file 2.2 secs
+⠙ Building modules  5%                  0.2s, estimated 4.8s
+[2K[1A[2K[G⠹ Building modules  7%                  0.3s, estimated 4.8s
+[2K[1A[2K[G⠸ Building modules  34%                 1.7s, estimated 4.8s
+[2K[1A[2K[G⠼ Building modules  58%                 2.8s, estimated 4.8s
+[2K[1A[2K[G⠴ Building modules  61%                 2.9s, estimated 4.8s
+[2K[1A[2K[G⠦ Building modules  75%                 3.6s, estimated 4.8s
+[2K[1A[2K[G⠧ Building modules  80%                 3.8s, estimated 4.8s
+[2K[1A[2K[G⠇ Building modules  90%                 4.3s, estimated 4.8s
+[2K[1A[2K[G⠏ Building modules  92%                 4.4s, estimated 4.8s
+[2K[1A[2K[G⠋ Building modules  93%                 4.5s, estimated 4.8s
+[2K[1A[2K[G⠙ Building modules  95%                 4.6s, estimated 4.8s
+[2K[1A[2K[G⠹ Building modules  97%                 4.7s, estimated 4.8s
+[2K[1A[2K[G⠸ Building modules  98%                 4.7s, estimated 4.8s
+[2K[1A[2K[G⠼ Building modules  99%                 4.8s, estimated 4.8s
+[2K[1A[2K[G✓ Building modules 4.9 secs
